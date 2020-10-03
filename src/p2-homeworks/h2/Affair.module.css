@@ -1,0 +1,20 @@
+.affairWrapper {
+    display: flex;
+    justify-content: space-between;
+    max-width: 650px;
+    margin: 0 auto;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.deleteButton {
+    outline: none;
+    width: 30px;
+    background-color: lightsteelblue;
+    border: none;
+    cursor: pointer;
+}
+
+.affair {
+    padding: 5px;
+}
