@@ -1,7 +1,25 @@
 .default {
-
+    width: 110px;
+    display: block;
+    border: 1px solid #000000;
+    margin: 5px;
+    height: 33px;
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: 200;
+    color: whitesmoke;
+    background-color: #304860;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    opacity: 0.8;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    outline: none;
 }
 
 .red {
-    background: red;
+    composes: default;
+    background: #db5151;
 }
+

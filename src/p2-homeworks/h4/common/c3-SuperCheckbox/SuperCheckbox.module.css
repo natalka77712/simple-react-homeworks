@@ -1,7 +1,13 @@
 .checkbox {
-
+    width: 20px;
+    height: 20px;
+    border: 1px solid #cdcdcd;
+    box-sizing: border-box;
+    text-align: center;
+    vertical-align: middle;
+    transition: color ease .3s;
 }
 
 .spanClassName {
-
+    margin-left: 5px;
 }
