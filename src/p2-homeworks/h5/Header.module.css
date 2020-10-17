@@ -1,0 +1,19 @@
+.nav {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.navItem {
+    display: block;
+    padding: 8px 15px;
+    border-right: 1px solid #ccc;
+}
+
+.navItem a {
+    color: white;
+    text-decoration: none;
+}
+
+.navItem a.activeLink {
+    color: red;
+}
