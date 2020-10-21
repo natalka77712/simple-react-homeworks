@@ -1,0 +1,11 @@
+.superSpan {
+    display: inline-block;
+    padding: 1px 11px;
+    width: 250px;
+    color: #f5f5f5;
+    font-size: 22px;
+    line-height: 1.5;
+    font-family: Monotype Corsiva,Times,serif;
+    border-radius: 2px;
+    border: 1px solid #d9d9d9;
+}

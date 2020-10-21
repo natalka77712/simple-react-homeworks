@@ -1,0 +1,16 @@
+.select {
+    background-repeat: no-repeat;
+    background-color: dimgray;
+    display: block;
+    width: 12%;
+    border: 2px solid #a7a7a7;
+    color: white;
+    font: normal 14px/1.4 Arial, sans-serif;
+    padding: 7px 10px 7px 10px;
+    height: 36px;
+    vertical-align: top;
+    outline: 0;
+    appearance: none !important;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'%3E%3Cpath fill='%23000' fill-rule='evenodd' class='cls-1' d='M8,0L4.141,6.993,0.012,0.156Z'/%3E%3C/svg%3E%0A");
+    background-position: 93% center;
+}
