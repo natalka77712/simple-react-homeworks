@@ -1,11 +1,11 @@
 .default {
-    width: 110px;
+    width: 120px;
     display: block;
     border: 1px solid #000000;
     margin: 5px;
-    height: 33px;
+    padding: 8px;
     font-family: inherit;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 200;
     color: whitesmoke;
     background-color: #304860;
